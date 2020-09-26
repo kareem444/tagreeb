@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tagreeb/precache-manifest.e900288beb2752b2faa25fbc13a4aa4a.js"
+  "/tagreeb/precache-manifest.4a09e31ca51b54a154e2b6131df2b802.js"
 );
 
 self.addEventListener('message', (event) => {

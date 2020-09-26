@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30b533e879c57bdbafdca5533b6dbb63",
+    "revision": "a1483e058ee74ed4fa6963b3ace5730f",
     "url": "/tagreeb/index.html"
   },
   {
-    "revision": "87b2ac7010295c8d253d",
+    "revision": "fa68b2db8daf9eab0bef",
     "url": "/tagreeb/static/css/main.00bee253.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tagreeb/static/js/2.d73db460.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "87b2ac7010295c8d253d",
-    "url": "/tagreeb/static/js/main.4a9d54d0.chunk.js"
+    "revision": "fa68b2db8daf9eab0bef",
+    "url": "/tagreeb/static/js/main.c301183e.chunk.js"
   },
   {
     "revision": "e39dedca4df11d6c55f2",
