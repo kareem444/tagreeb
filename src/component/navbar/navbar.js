@@ -13,7 +13,7 @@ const Navbar = () => {
                 </div>
                 
                 <ul className="ul-list">
-                    <li className="list-item"><NavLink exact to="/home" exact >Home</NavLink></li>
+                    <li className="list-item"><NavLink exact to="/" exact >Home</NavLink></li>
                     <li className="list-item"><a href="#">Work</a></li>
                     <li className="list-item"><a href="#">Portfolio</a></li>
                     <li className="list-item"><a href="#">Resume</a></li>
