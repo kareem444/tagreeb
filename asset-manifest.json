@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tagreeb/static/css/main.00bee253.chunk.css",
+    "main.js": "/tagreeb/static/js/main.4a9d54d0.chunk.js",
+    "main.js.map": "/tagreeb/static/js/main.4a9d54d0.chunk.js.map",
+    "runtime-main.js": "/tagreeb/static/js/runtime-main.670d5eaf.js",
+    "runtime-main.js.map": "/tagreeb/static/js/runtime-main.670d5eaf.js.map",
+    "static/js/2.d73db460.chunk.js": "/tagreeb/static/js/2.d73db460.chunk.js",
+    "static/js/2.d73db460.chunk.js.map": "/tagreeb/static/js/2.d73db460.chunk.js.map",
+    "index.html": "/tagreeb/index.html",
+    "precache-manifest.e900288beb2752b2faa25fbc13a4aa4a.js": "/tagreeb/precache-manifest.e900288beb2752b2faa25fbc13a4aa4a.js",
+    "service-worker.js": "/tagreeb/service-worker.js",
+    "static/css/main.00bee253.chunk.css.map": "/tagreeb/static/css/main.00bee253.chunk.css.map",
+    "static/js/2.d73db460.chunk.js.LICENSE.txt": "/tagreeb/static/js/2.d73db460.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/tagreeb/static/media/home-bg.6b1d7b92.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.670d5eaf.js",
+    "static/js/2.d73db460.chunk.js",
+    "static/css/main.00bee253.chunk.css",
+    "static/js/main.4a9d54d0.chunk.js"
+  ]
+}
